@@ -1,0 +1,3 @@
+for (var a of document.getElementsByTagName('li')) { console.log(a) }
+
+for (var a of document.getElementsByTagName('a')) { console.log(a.href) }
